@@ -1,0 +1,17 @@
+{
+    "sorting": "name-up",
+    "project": {
+        "title": "Ceux qui luttaient dans les ténèbres",
+        "formats": [
+            "html",
+            "chromium-pdf"
+        ],
+        "filters": [],
+        "cslStyle": "",
+        "templates": {
+            "tex": "",
+            "html": ""
+        }
+    },
+    "icon": "note"
+}
