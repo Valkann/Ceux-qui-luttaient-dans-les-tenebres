@@ -12,7 +12,7 @@ La traduction française de Brindlewood Bay est l’oeuvre de Nicolas Ronvel et 
 
 ### Forged in the Dark DRS
 
-Le texte de la version française est mis à disposition selon les termes de la Licence Creative  Commons Attribution - Pas d’Utilisation Commerciale 2.0 France (https://creativecommons.org/licenses/by-nc/2.0/fr/)
+Le texte de la version française est mis à disposition selon les termes de la Licence Creative  Commons Attribution - Pas d’Utilisation Commerciale 2.0 France (<https://creativecommons.org/licenses/by-nc/2.0/fr/>)
 
 ## Ton du jeu
 
@@ -51,7 +51,7 @@ Le texte de la version française est mis à disposition selon les termes de la 
   
 ## Personnages
 
-### Capacités 
+### Capacités
 
 Ce sont les attributs du personnage qui sont appliqués à la plupart des jets de dé.
 
@@ -66,11 +66,11 @@ Utilise **Présence** si ton Personnage essaie de charmer quelqu'un, d'intimider
 
 Utilise **Pouvoir** si l'action de ton personnage implique des forces surnaturelles ; Le Gardien peut décider qu'une action qui semble être régie par une autre capacité est en fait régie par le **Pouvoir** en raison de la nature surnaturelle, spirituelle ou occulte de ce qui est entrepris.
 
-### Conditions 
+### Conditions
 
-Les conditions sont des traits négatifs qui te font faire des jets de dé avec un désavantage s'ils peuvent gêner ton personnage pendant une action (voir [[#Lancer les dés]]). 
+Les conditions sont des traits négatifs qui te font faire des jets de dé avec un désavantage s'ils peuvent gêner ton personnage pendant une action (voir [[#Lancer les dés]]).
 
-Tu peux avoir jusqu'à trois conditions. Si tu dois obtenir une quatrième condition, coches une de tes Souvenirs ou une de tes Folies (voir [[#Souvenirs et Folies]]). 
+Tu peux avoir jusqu'à trois conditions. Si tu dois obtenir une quatrième condition, coches une de tes Souvenirs ou une de tes Folies (voir [[#Souvenirs et Folies]]).
 
 Les conditions sont supprimées suite à certaines manœuvres ou lorsque le Gardien te demande de le faire.
 
@@ -112,7 +112,7 @@ Dans la plupart des cas, tu lances des dés parce qu'une manœuvre te demande de
 Par convention dans le jeu de rôle on parle de sucès ou d'échec à un action tentée par le personnage.
 Dans les jeux PbtA et dans celui-ci en particulier les notions de succès ou d'échec sont unpeu différents.
 
-Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la cosnéquence de l'action va être terrible, le meneur va pouvoir utiliser des manoeuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe. 
+Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la cosnéquence de l'action va être terrible, le meneur va pouvoir utiliser des manoeuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
 
 Exemple :
 
@@ -152,9 +152,9 @@ Par exemple, si tu as deux conditions, chacune d'entre elles pouvant plausibleme
 
 La feuille de personnage possède une section divisée en deux parties : Souvenirs et Folie.
 
-Il te sera parfois demandé de "*Cocher un Souvenir ou une Folie*", auquel cas, lis les instructions spécifiques de la feuille de personnage et coches une case de l'une de ces deux sections. 
+Il te sera parfois demandé de "*Cocher un Souvenir ou une Folie*", auquel cas, lis les instructions spécifiques de la feuille de personnage et coches une case de l'une de ces deux sections.
 
-Tu dois alors faire ce que le texte coché te demande avant la fin de la session en cours. 
+Tu dois alors faire ce que le texte coché te demande avant la fin de la session en cours.
 
 Les **Souvenirs** représentent les sacrifices réalisés par ton investigateur, pour qu'il puisse se consacrer à la lutte contre le mythe. Ce sont des scènes où l'on va voir les pertes, regrets et remords de ton personnage. Tu peux les cocher dans n'importe quel ordre.
 
@@ -164,25 +164,25 @@ Les **Folies** sont les conséquences de ta lutte contre l'innommable et les tra
 
 Le Gardien s'acharnera toujours sur toi, car tu disposes d'un outil qui te permet de résister à ses coups : Les [[#Souvenirs et Folies]]
 
-Après un jet de dé, et après qu'une conséquence ait été racontée, tu peux choisir de cocher un Souvenir ou une Folie afin d'augmenter le résultat de ton dé d'un niveau. 
+Après un jet de dé, et après qu'une conséquence ait été racontée, tu peux choisir de cocher un Souvenir ou une Folie afin d'augmenter le résultat de ton dé d'un niveau.
 
-Ainsi, un échec (6-) devient un 7-9, un 7-9 devient un 10-11, et un 10-11 devient un 12. 
+Ainsi, un échec (6-) devient un 7-9, un 7-9 devient un 10-11, et un 10-11 devient un 12.
 
 Dans ce cas, la table raconte une issue différente à l'action de ce qui a été précédemment raconté, qui, du coup, ne se produit pas.
 
-Tu es libre d'imaginer que c'était une ligne de temps différente que vous avez pu expérimenter collectivement, mais qui ne s'est pas réellement produite. 
+Tu es libre d'imaginer que c'était une ligne de temps différente que vous avez pu expérimenter collectivement, mais qui ne s'est pas réellement produite.
 
-Tu te demandes peut-être : "Pourquoi le Gardien raconte-t-il un résultat alors que la joueuse va le changer en cochant une réaction ?" 
+Tu te demandes peut-être : "Pourquoi le Gardien raconte-t-il un résultat alors que la joueuse va le changer en cochant une réaction ?"
 
 Réponse : parce que c'est amusant !
 
-La réaction permet d'entrevoir différentes lignes temporelles, de les jouer, de les ressentir, d'expérimenter l'angoisse et la terreur, et ensuite... de faire quelque chose de différent. 
+La réaction permet d'entrevoir différentes lignes temporelles, de les jouer, de les ressentir, d'expérimenter l'angoisse et la terreur, et ensuite... de faire quelque chose de différent.
 
 ## Manœuvres
 
 Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de personnage. Les personnages ont accès à toutes les manœuvres de base en plus d'une ou plusieurs manœuvres spécifique à leur personnage.
 
- Lorsque le texte d'une manœuvre de personnage contredit une manœuvre de base, la manœuvre de personnage est prioritaire. 
+ Lorsque le texte d'une manœuvre de personnage contredit une manœuvre de base, la manœuvre de personnage est prioritaire.
  Les manœuvres de personnage se trouvent sur les différents livrets de personnage.
  Les manœuvres de base se trouvent sur la feuille de référence et sont expliquées ci-dessous.
 
@@ -191,64 +191,68 @@ Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de
  Lorsque tu fais quelque chose de risqué, que tu rencontres l'innommable ou que tu fais face à quelque chose que tu crains, nomme ce dont tu as peur qu'il arrive si tu échoues ou si tu perds votre sang-froid.
  Fais un jet avec une capacité appropriée.
 
-- Sur un 10+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits ; décris ce à quoi cela ressemble. 
-- Sur un 7-9, le Gardien te dira comment tes actions te rendront vulnérable, et tu pourras choisir de reculer ou d'aller jusqu'au bout. Si tu vas jusqu'au bout, le Gardien décrit ce à quoi cela ressemble. 
-- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits, et le Gardien te révèlera quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble. 
+- Sur un 10+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits ; décris ce à quoi cela ressemble.
+- Sur un 7-9, le Gardien te dira comment tes actions te rendront vulnérable, et tu pourras choisir de reculer ou d'aller jusqu'au bout. Si tu vas jusqu'au bout, le Gardien décrit ce à quoi cela ressemble.
+- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits, et le Gardien te révèlera quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble.
 
  Agir sous la pression est une manœuvre fourre-tout pour les actions qui ont lieu pendant la journée. Le Gardien a le dernier mot sur la capacité utilisée pour le jet.
 
 ### **Enquêter**
 
  Lorsque tu cherches un indice, fais des recherches ou recueilles des informations, décris la façon dont tu le fais et lance un dé avec une capacité appropriée.
-Si tu réussis, tu trouves un indice. Le Gardien te dira ce que c'est. 
+Si tu réussis, tu trouves un indice. Le Gardien te dira ce que c'est.
 
-- Sur un 7-9, il y a une complication - soit avec l'indice lui-même, soit avec une complication que tu rencontres en cherchant. Le Gardien te dira quelle est cette complication. 
-- Sur un 12+, trouves également un indice lié au mythe OU tu apprends quelque chose sur la sombre conspiration générale (au choix du Gardien). 
+- Sur un 7-9, il y a une complication - soit avec l'indice lui-même, soit avec une complication que tu rencontres en cherchant. Le Gardien te dira quelle est cette complication.
+- Sur un 12+, trouves également un indice lié au mythe OU tu apprends quelque chose sur la sombre conspiration générale (au choix du Gardien).
 
- Cette manœuvre est le principal moyen pour un personnage de trouver des indices. Elle est écrite pour couvrir tous les types d'actions de collecte d'informations et la capacité utilisée pour le jet doit correspondre à l'action entreprise. 
+ Cette manœuvre est le principal moyen pour un personnage de trouver des indices. Elle est écrite pour couvrir tous les types d'actions de collecte d'informations et la capacité utilisée pour le jet doit correspondre à l'action entreprise.
 
  Ainsi, par exemple, si un personnage recueille des informations en parlant gentiment à un représentant de la loi locale, sa joueuse fera un jet de Présence. S'il recueille des informations en écoutant silencieusement une conversation qu'il n'est pas censée entendre, sa joueuse utilisera Calme. Dans le cas où elle fouille dans les livres de la bibliothèque locale, elle utilisera Méthode. Et ainsi de suite. Le Gardien a le dernier mot sur le choix de la capacité utilisée pour le jet.
 
 ### **Souffler**
 
  Lorsque tu as un moment d'intimité avec un autre personnage et que l'un d'entre vous est engagé dans une activité reposante.
- Choisis deux options si c'est une activité en lien avec ton personnage. Sinon, choisis-en une. 
+ Choisis deux options si c'est une activité en lien avec ton personnage. Sinon, choisis-en une.
 
-- Tu peux poser à l'autre joueuse une question sur son personnage à laquelle elle doit répondre de manière honnête et complète. 
-- L'autre personnage accepte un plan d'action particulier, ou il subit une condition s'il refuse. 
+- Tu peux poser à l'autre joueuse une question sur son personnage à laquelle elle doit répondre de manière honnête et complète.
+- L'autre personnage accepte un plan d'action particulier, ou il subit une condition s'il refuse.
 - Décoche une condition appropriée (peut être choisie deux fois).
 
 Sinon, si c'est ton activité préférée, tu peux :
 
-- Tomber sur un indice en rapport avec un mystère en cours. 
-Dis au Gardien de quoi il s'agit. L'indice ne peut pas résoudre le mystère à lui seul. 
+- Tomber sur un indice en rapport avec un mystère en cours.
+Dis au Gardien de quoi il s'agit. L'indice ne peut pas résoudre le mystère à lui seul.
 
 Cette manœuvre sert plusieurs objectifs pratiques, tels que la récupération des conditions, mais elle est principalement conçue pour montrer la relation étroite entre les personnages, ainsi que pour donner un aperçu de leur vie en tant qu'investigateur.
 
 ### **Utiliser le Mythe**
 
-Lorsque tu t'engages pour la première fois dans une activité liée au surnaturel, à l'innommable, à un sortilège ou à l'occulte, imagines à quoi ressembleraient cette action sous forme de manœuvre. Dis ce qui déclenche la manœuvre et fais un jet de pouvoir. 
+Lorsque tu t'engages pour la première fois dans une activité liée au surnaturel, à l'innommable, à un sortilège ou à l'occulte, imagines à quoi ressembleraient cette action sous forme de manœuvre. Dis ce qui déclenche la manœuvre et fais un jet de pouvoir.
 
-- Sur un succès, cela fonctionne ; Travailles avec le Gardien pour écrire la manœuvre - c'est maintenant une manœuvre que tous les personnages peuvent utiliser pour le reste de la partie et ton jet est maintenu. 
-- Sur un 7-9, tu dois également cocher une folie. 
-- Sur un échec, ce n'est pas quelque chose que les personnages peuvent faire et tu dois aussi cocher une folie. 
+- Sur un succès, cela fonctionne ; Travailles avec le Gardien pour écrire la manœuvre - c'est maintenant une manœuvre que tous les personnages peuvent utiliser pour le reste de la partie et ton jet est maintenu.
+- Sur un 7-9, tu dois également cocher une folie.
+- Sur un échec, ce n'est pas quelque chose que les personnages peuvent faire et tu dois aussi cocher une folie.
 
 ## Règles spécifiques
 
 ### Classes Sociales
 
-***Indigent < pauvre < moyenne < aisée < supérieur*** 
+***Indigent < pauvre < moyenne < aisée < supérieur***
 
-Quand un personnage interagit avec des personnes 
+Quand un personnage interagit avec des personnes
 
 - D'une classe sociale identique il obtient un avantage
 - Directement inférieur ou supérieur il lance de manière neutre
 - Sinon il lance avec un Désavantage
 
 #### Indigent
+
 #### Pauvre
+
 #### Classe Moyenne
+
 #### Classe aisée
+
 #### Classe supérieure
 
 ### Combat contre les entités
@@ -260,12 +264,16 @@ Si tu tentes de les affronter dans un but autre que leur annihilation, comme fui
 Cela sera toujours un jet de [[#Manœuvre nocturne]]
 
 ***
+
 # Livrets
+
 - [[L'Artiste]]
 - [[Le Dilettante]]
 
 ***
+
 # WiP
+
 ### Exemples de Folies (Générique)
 
 - [ ] **Peur Panique** Réaction Immédiate : Vous partez le plus loin et le plus vite possible de ce qui a provoqué le choc. Séquelle : Vous développez une phobie pour une chose en rapport avec la scène que vous venez de vivre.
@@ -275,14 +283,17 @@ Cela sera toujours un jet de [[#Manœuvre nocturne]]
 - [ ] **Amnésie sélective** : Vous agissez comme si al source du choc n'existait pas ou n'était pas là. Que ce soit un objet, une personne ou un monstre le cerveau de votre personnage ne l'enregistre plus. Séquelle :
 - [ ] **Phobie** : Vous gagnez une phobie en rapport avec la cause de votre choc. Cette phobie reste même si la case est décochée. Vous pouvez accumuler plusieurs phobies. Séquelle :
 - [ ] **Trouble dissociatif de l’identité** Pour la scène en cours, vous changez de livret de personnage et de caractère. Séquelle :
+
 ***
 Voir les jeux suivants :
+
 - fear_of_the_unknown
 - Happiest Apocalypse on Earth
 - Mythos World
 
 ***
 Les deux actions
+
 - agir calmement
 - agir sous la pression
 
@@ -298,14 +309,15 @@ Mettre une jauge qui passe par différents états et change les conséquences de
 Contrôllée / risquée / désepérée
 
 ## Archives
+
 #### **Manœuvre nocturne**
- 
+
  Lorsque tu fais quelque chose de risqué, que tu rencontres l'innommable ou que tu fais face à quelque chose que tu crains, nomme ce dont tu as peur qu'il arrive si tu échoues ou si tu perds votre sang-froid.
- 
- Le Gardien te dira que c'est pire que ce que tu crains. Tu peux choisir de reculer ou d'aller jusqu'au bout. Si tu vas jusqu'au bout, fais un jet de dé avec une capacité appropriée. 
- 
- - Sur un 10+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits ; décris ce à quoi cela ressemble. 
- - Sur un 7-9, tu fais ce que tu voulais ou garde ton calme et tes esprits, mais il y a une complication ou un coût ; le Gardien décrit à quoi cela ressemble.
- - Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits, et le Gardien te dira quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble. 
- 
+
+ Le Gardien te dira que c'est pire que ce que tu crains. Tu peux choisir de reculer ou d'aller jusqu'au bout. Si tu vas jusqu'au bout, fais un jet de dé avec une capacité appropriée.
+
+- Sur un 10+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits ; décris ce à quoi cela ressemble.
+- Sur un 7-9, tu fais ce que tu voulais ou garde ton calme et tes esprits, mais il y a une complication ou un coût ; le Gardien décrit à quoi cela ressemble.
+- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits, et le Gardien te dira quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble.
+
  La Manœuvre de nuit est la Manœuvre fourre-tout pour les actions qui ont lieu la nuit. Puisqu'il est plus dangereux d'agir la nuit que le jour, la Manœuvre de Nuit est écrite pour avoir des résultats plus périlleux pour les personnages que la Manœuvre de Jour. Le Gardien a le dernier mot sur le choix de la capacité utilisée pour le jet.
