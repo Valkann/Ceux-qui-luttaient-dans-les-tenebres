@@ -70,9 +70,19 @@ Utilise **Pouvoir** si l'action de ton personnage implique des forces surnaturel
 
 Les conditions sont des traits négatifs qui te font faire des jets de dé avec un désavantage s'ils peuvent gêner ton personnage pendant une action (voir [[#Lancer les dés]]).
 
-Tu peux avoir jusqu'à trois conditions. Si tu dois obtenir une quatrième condition, coches une de tes Souvenirs ou une de tes Folies (voir [[#Souvenirs et Folies]]).
+Tu peux avoir jusqu'à trois conditions. Si tu dois obtenir une quatrième condition, coches un de tes Souvenirs ou une de tes Folies (voir [[#Souvenirs et Folies]]).
 
 Les conditions sont supprimées suite à certaines manœuvres ou lorsque le Gardien te demande de le faire.
+
+Voici les différentes conditions qui peuvent être cochée par le joueur ou le gardien pour un personnage.
+
+#### Blessé
+#### Désespéré
+#### Épuisé
+#### Paniqué
+#### Enragé
+#### Démoralisé
+
 
 ## Lancer les dés
 
@@ -82,7 +92,7 @@ Agir n'a pas forcément les mêmes implications ou conséquences. Crocheter la s
 
 Avant de savoir comment résoudre une action, il est important de définir l'indicateur de Danger de la scène en cours.
 
-### Dangerosité
+### Situation et danger
 
 L'indicateur de danger possède trois positions :*
 
@@ -109,14 +119,14 @@ Dans la plupart des cas, tu lances des dés parce qu'une manœuvre te demande de
 
 ### Succès et échec
 
-Par convention dans le jeu de rôle on parle de sucès ou d'échec à un action tentée par le personnage.
-Dans les jeux PbtA et dans celui-ci en particulier les notions de succès ou d'échec sont unpeu différents.
+Par convention, dans le jeu de rôle, on parle de succès ou d'échec à une action tentée par le personnage.
+Dans les jeux PbtA et dans celui-ci en particulier, les notions de succès ou d'échec sont un peu différents.
 
-Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la cosnéquence de l'action va être terrible, le meneur va pouvoir utiliser des manoeuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
+Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la conséquence de l'action va être terrible, le meneur va pouvoir utiliser des manœuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
 
 Exemple :
 
-- todo
+- ==todo==
 
 ### **Avantage**
 
@@ -144,7 +154,7 @@ Si les circonstances font que tu as à la fois un avantage et un désavantage pe
 
 Note cependant que les avantages et les désavantages ne s'empilent pas et qu'aucun ne peut l'emporter sur l'autre.
 
-Par exemple, si tu as deux conditions, chacune d'entre elles pouvant plausiblement te désavantager et une manœuvre qui te donne un avantage, tu feras simplement un jet normal, sans avantage ni désavantage.
+Par exemple, dans le cas où tu as deux conditions, chacune d'entre elles pouvant plausiblement te désavantager et une manœuvre qui te donne un avantage, tu feras simplement un jet normal, sans avantage ni désavantage.
 
 ### Souvenirs et Folies
 
@@ -156,7 +166,7 @@ Il te sera parfois demandé de "*Cocher un Souvenir ou une Folie*", auquel cas, 
 
 Tu dois alors faire ce que le texte coché te demande avant la fin de la session en cours.
 
-Les **Souvenirs** représentent les sacrifices réalisés par ton investigateur, pour qu'il puisse se consacrer à la lutte contre le mythe. Ce sont des scènes où l'on va voir les pertes, regrets et remords de ton personnage. Tu peux les cocher dans n'importe quel ordre.
+Les **Souvenirs** représentent les sacrifices réalisés par ton investigateur, pour qu'il puisse se consacrer à la lutte contre le mythe. Ce sont des scènes dans lesquelles l'on va voir les pertes, regrets et remords de ton personnage. Tu peux les cocher dans n'importe quel ordre.
 
 Les **Folies** sont les conséquences de ta lutte contre l'innommable et les traces que ce dernier a laissées sur toi. Tu coches toujours les cases dans l'ordre et la dernière case annonce la fin de ta santé mentale et de ton personnage.
 
@@ -176,7 +186,7 @@ Tu te demandes peut-être : "Pourquoi le Gardien raconte-t-il un résultat alors
 
 Réponse : parce que c'est amusant !
 
-La réaction permet d'entrevoir différentes lignes temporelles, de les jouer, de les ressentir, d'expérimenter l'angoisse et la terreur, et ensuite... de faire quelque chose de différent.
+La réaction permet d'entrevoir différentes lignes temporelles, de les jouer, de les ressentir, d'expérimenter l'angoisse et la terreur, puis... de faire quelque chose de différent.
 
 ## Manœuvres
 
@@ -192,14 +202,15 @@ Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de
  Fais un jet avec une capacité appropriée.
 
 - Sur un 10+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits ; décris ce à quoi cela ressemble.
-- Sur un 7-9, le Gardien te dira comment tes actions te rendront vulnérable, et tu pourras choisir de reculer ou d'aller jusqu'au bout. Si tu vas jusqu'au bout, le Gardien décrit ce à quoi cela ressemble.
-- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits, et le Gardien te révèlera quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble.
+- Sur un 7-9, le Gardien te dira comment tes actions te rendront vulnérable, puis tu pourras choisir de reculer ou d'aller jusqu'au bout. Si tu vas jusqu'au bout, le Gardien décrit ce à quoi cela ressemble.
+- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits. Le Gardien te révèlera quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble.
 
  Agir sous la pression est une manœuvre fourre-tout pour les actions qui ont lieu pendant la journée. Le Gardien a le dernier mot sur la capacité utilisée pour le jet.
 
 ### **Enquêter**
 
  Lorsque tu cherches un indice, fais des recherches ou recueilles des informations, décris la façon dont tu le fais et lance un dé avec une capacité appropriée.
+ 
 Si tu réussis, tu trouves un indice. Le Gardien te dira ce que c'est.
 
 - Sur un 7-9, il y a une complication - soit avec l'indice lui-même, soit avec une complication que tu rencontres en cherchant. Le Gardien te dira quelle est cette complication.
@@ -215,7 +226,7 @@ Si tu réussis, tu trouves un indice. Le Gardien te dira ce que c'est.
  Choisis deux options si c'est une activité en lien avec ton personnage. Sinon, choisis-en une.
 
 - Tu peux poser à l'autre joueuse une question sur son personnage à laquelle elle doit répondre de manière honnête et complète.
-- L'autre personnage accepte un plan d'action particulier, ou il subit une condition s'il refuse.
+- L'autre personnage accepte un plan d'action particulier, ou il subit une condition dans le cas où il refuse.
 - Décoche une condition appropriée (peut être choisie deux fois).
 
 Sinon, si c'est ton activité préférée, tu peux :
@@ -239,11 +250,11 @@ Lorsque tu t'engages pour la première fois dans une activité liée au surnatur
 
 ***Indigent < pauvre < moyenne < aisée < supérieur***
 
-Quand un personnage interagit avec des personnes
+Quand un personnage interagit avec des personnes.
 
 - D'une classe sociale identique il obtient un avantage
 - Directement inférieur ou supérieur il lance de manière neutre
-- Sinon il lance avec un Désavantage
+- Sinon il lance avec un Désavantage.
 
 #### Indigent
 
@@ -255,13 +266,16 @@ Quand un personnage interagit avec des personnes
 
 #### Classe supérieure
 
-### Combat contre les entités
+### Combat contre les entités. 
 
-Si tu tentes d'attaquer une entité surnaturelle de front, tu meurs. Les créatures d'outre espaces surpassent les êtres humains. Que ce soit au point de vue physique, technologique ou magique tes chances sont nulles. Seuls certains rituels permettent de repousser les abominations que tu as jurées de détruire et encore seulement pour un temps.
+Il existe deux cas pour affronter les entités du Mythe.
 
-Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose alors tu peux lancer les dés voir tu arrives à ton objectif.
+Si tu tentes d'attaquer une entité surnaturelle de front, tu meurs. Les créatures d'outre espaces surpassent les êtres humains. Que ce soit au point de vue physique, technologique ou magique, tes chances sont nulles. Seuls certains rituels permettent de repousser les abominations que tu as juré de détruire et encore seulement pour un temps.
 
-Cela sera toujours un jet de [[#Manœuvre nocturne]]
+Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose, alors tu peux lancer les dés voir tu arrives à ton objectif.
+Cela sera toujours considéré comme une situation [[#Dangerosité|Désepéré]]
+
+
 
 ***
 
@@ -273,6 +287,8 @@ Cela sera toujours un jet de [[#Manœuvre nocturne]]
 ***
 
 # WiP
+Ajouter états émotionnels a la Mask ou horrifique a la place de l'échelle de blessure
+
 
 ### Exemples de Folies (Générique)
 
