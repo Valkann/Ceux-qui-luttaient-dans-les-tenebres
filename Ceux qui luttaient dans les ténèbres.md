@@ -77,12 +77,16 @@ Les conditions sont supprimées suite à certaines manœuvres ou lorsque le Gard
 Voici les différentes conditions qui peuvent être cochée par le joueur ou le gardien pour un personnage.
 
 #### Blessé
-#### Désespéré
-#### Épuisé
-#### Paniqué
-#### Enragé
-#### Démoralisé
 
+#### Désespéré
+
+#### Épuisé
+
+#### Paniqué
+
+#### Enragé
+
+#### Démoralisé
 
 ## Lancer les dés
 
@@ -106,7 +110,9 @@ Pour choisir une position, le MJ examine les définitions ci-dessous et choisit 
 - **Risquée** : vous vous battez à armes égales, vous agissez sous le feu ennemi ou vous prenez un risque.  
 - **Désespérée** : vous visez plus haut que votre niveau, vous êtes dans la mouise.  
 
-Par défaut, un jet d’action est risqué. Vous ne seriez pas en train de lancer les dés s’il n’y avait aucun risque. Si la situation semble très dangereuse, elle est désespérée. Si elle paraît modérément dangereuse, elle est contrôlée.  
+Par défaut, un jet d’action est risqué. Vous ne seriez pas en train de lancer les dés s’il n’y avait aucun risque. Si la situation semble très dangereuse, elle est désespérée. Dans le cas où elle paraît modérément dangereuse, elle est contrôlée.  
+
+En règle générale, le gardien vous demandera ce que vous craignez qu'il arrive en cas de 6-. En situation désespéré il vous posera la même question, mais vous expliquera en quoi c'est encore pire.
 
 ### **2d6 + capacité**
 
@@ -122,7 +128,7 @@ Dans la plupart des cas, tu lances des dés parce qu'une manœuvre te demande de
 Par convention, dans le jeu de rôle, on parle de succès ou d'échec à une action tentée par le personnage.
 Dans les jeux PbtA et dans celui-ci en particulier, les notions de succès ou d'échec sont un peu différents.
 
-Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la conséquence de l'action va être terrible, le meneur va pouvoir utiliser des manœuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
+Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la conséquence de l'action va être terrible. Le meneur va pouvoir utiliser des manœuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
 
 Exemple :
 
@@ -198,7 +204,7 @@ Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de
 
 ### Agir sous la pression
 
- Lorsque tu fais quelque chose de risqué, que tu rencontres l'innommable ou que tu fais face à quelque chose que tu crains, nomme ce dont tu as peur qu'il arrive si tu échoues ou si tu perds votre sang-froid.
+ Quand tu fais quelque chose de risqué, que tu rencontres l'innommable ou que tu fais face à quelque chose que tu crains, nomme ce dont tu as peur qu'il arrive si tu échoues ou si tu perds votre sang-froid.
  Fais un jet avec une capacité appropriée.
 
 - Sur un 10+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits ; décris ce à quoi cela ressemble.
@@ -209,8 +215,8 @@ Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de
 
 ### **Enquêter**
 
- Lorsque tu cherches un indice, fais des recherches ou recueilles des informations, décris la façon dont tu le fais et lance un dé avec une capacité appropriée.
- 
+ Quand tu cherches un indice, fais des recherches ou recueilles des informations, décris la façon dont tu le fais et lance un dé avec une capacité appropriée.
+
 Si tu réussis, tu trouves un indice. Le Gardien te dira ce que c'est.
 
 - Sur un 7-9, il y a une complication - soit avec l'indice lui-même, soit avec une complication que tu rencontres en cherchant. Le Gardien te dira quelle est cette complication.
@@ -222,7 +228,7 @@ Si tu réussis, tu trouves un indice. Le Gardien te dira ce que c'est.
 
 ### **Souffler**
 
- Lorsque tu as un moment d'intimité avec un autre personnage et que l'un d'entre vous est engagé dans une activité reposante.
+ Quand tu as un moment d'intimité avec un autre personnage et que l'un d'entre vous est engagé dans une activité reposante.
  Choisis deux options si c'est une activité en lien avec ton personnage. Sinon, choisis-en une.
 
 - Tu peux poser à l'autre joueuse une question sur son personnage à laquelle elle doit répondre de manière honnête et complète.
@@ -238,7 +244,7 @@ Cette manœuvre sert plusieurs objectifs pratiques, tels que la récupération d
 
 ### **Utiliser le Mythe**
 
-Lorsque tu t'engages pour la première fois dans une activité liée au surnaturel, à l'innommable, à un sortilège ou à l'occulte, imagines à quoi ressembleraient cette action sous forme de manœuvre. Dis ce qui déclenche la manœuvre et fais un jet de pouvoir.
+Quand tu t'engages pour la première fois dans une activité liée au surnaturel, à l'innommable, à un sortilège ou à l'occulte, imagines à quoi ressembleraient cette action sous forme de manœuvre. Dis ce qui déclenche la manœuvre et fais un jet de pouvoir.
 
 - Sur un succès, cela fonctionne ; Travailles avec le Gardien pour écrire la manœuvre - c'est maintenant une manœuvre que tous les personnages peuvent utiliser pour le reste de la partie et ton jet est maintenu.
 - Sur un 7-9, tu dois également cocher une folie.
@@ -253,10 +259,12 @@ Lorsque tu t'engages pour la première fois dans une activité liée au surnatur
 Quand un personnage interagit avec des personnes.
 
 - D'une classe sociale identique il obtient un avantage
-- Directement inférieur ou supérieur il lance de manière neutre
+- Directement inférieur ou supérieur, il lance de manière neutre
 - Sinon il lance avec un Désavantage.
 
 #### Indigent
+
+Vous vivez dans la rue, vous cherchezz des petits boulots à gauche à droite pour subvenir à vos besoins. Vous faites partie de ces fameux hobo toujours prêt à sauter dans un train dès qu'une rumeur de travail disponible vous parvient.
 
 #### Pauvre
 
@@ -266,7 +274,7 @@ Quand un personnage interagit avec des personnes.
 
 #### Classe supérieure
 
-### Combat contre les entités. 
+### Combat contre les entités
 
 Il existe deux cas pour affronter les entités du Mythe.
 
@@ -274,8 +282,6 @@ Si tu tentes d'attaquer une entité surnaturelle de front, tu meurs. Les créatu
 
 Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose, alors tu peux lancer les dés voir tu arrives à ton objectif.
 Cela sera toujours considéré comme une situation [[#Dangerosité|Désepéré]]
-
-
 
 ***
 
@@ -287,8 +293,9 @@ Cela sera toujours considéré comme une situation [[#Dangerosité|Désepéré]]
 ***
 
 # WiP
-Ajouter états émotionnels a la Mask ou horrifique a la place de l'échelle de blessure
 
+Ajouter états émotionnels a la Mask ou horrifique a la place de l'échelle de blessure
+Situation : reprendre le que crains tu ? Et c'est encore pire que ça !
 
 ### Exemples de Folies (Générique)
 
