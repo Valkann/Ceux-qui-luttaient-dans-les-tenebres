@@ -68,9 +68,9 @@ Utilise **Pouvoir** si l'action de ton personnage implique des forces surnaturel
 
 ### Conditions
 
-Les conditions sont des traits négatifs qui te font faire des jets de dé avec un désavantage s'ils peuvent gêner ton personnage pendant une action (voir [[#Lancer les dés]]).
+Les conditions sont des traits négatifs qui te font faire des jets de dé avec un désavantage s'ils peuvent gêner ton personnage pendant une action (voir **Lancer les dés**).
 
-Tu peux avoir jusqu'à trois conditions. Si tu dois obtenir une quatrième condition, coches un de tes Souvenirs ou une de tes Folies (voir [[#Souvenirs et Folies]]).
+Tu peux avoir jusqu'à trois conditions. Si tu dois obtenir une quatrième condition, coches un de tes Souvenirs ou une de tes Folies (voir **Souvenirs et Folies**).
 
 Les conditions sont supprimées suite à certaines manœuvres ou lorsque le Gardien te demande de le faire.
 
@@ -98,7 +98,7 @@ Avant de savoir comment résoudre une action, il est important de définir l'ind
 
 ### Situation et danger
 
-L'indicateur de danger possède trois positions :*
+L'indicateur de danger possède trois positions :
 
 - Contrôlée
 - Risquée
@@ -178,7 +178,7 @@ Les **Folies** sont les conséquences de ta lutte contre l'innommable et les tra
 
 ## Souvenirs, Folies et jets de dé
 
-Le Gardien s'acharnera toujours sur toi, car tu disposes d'un outil qui te permet de résister à ses coups : Les [[#Souvenirs et Folies]]
+Le Gardien s'acharnera toujours sur toi, car tu disposes d'un outil qui te permet de résister à ses coups : Les **Souvenirs et Folies**
 
 Après un jet de dé, et après qu'une conséquence ait été racontée, tu peux choisir de cocher un Souvenir ou une Folie afin d'augmenter le résultat de ton dé d'un niveau.
 
@@ -264,7 +264,7 @@ Quand un personnage interagit avec des personnes.
 
 #### Indigent
 
-Vous vivez dans la rue, vous cherchezz des petits boulots à gauche à droite pour subvenir à vos besoins. Vous faites partie de ces fameux hobo toujours prêt à sauter dans un train dès qu'une rumeur de travail disponible vous parvient.
+Vous vivez dans la rue, vous cherchez des petits boulots à gauche à droite pour subvenir à vos besoins. Vous faites partie de ces fameux hobo toujours prêt à sauter dans un train dès qu'une rumeur de travail disponible vous parvient.
 
 #### Pauvre
 
@@ -281,23 +281,39 @@ Il existe deux cas pour affronter les entités du Mythe.
 Si tu tentes d'attaquer une entité surnaturelle de front, tu meurs. Les créatures d'outre espaces surpassent les êtres humains. Que ce soit au point de vue physique, technologique ou magique, tes chances sont nulles. Seuls certains rituels permettent de repousser les abominations que tu as juré de détruire et encore seulement pour un temps.
 
 Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose, alors tu peux lancer les dés voir tu arrives à ton objectif.
-Cela sera toujours considéré comme une situation [[#Dangerosité|Désepéré]]
+Cela sera toujours considéré comme une situation **Désepéré**
 
 ***
 
 # Livrets
 
-- [[L'Artiste]]
-- [[Le Dilettante]]
+- [Artiste](Livrets/Artiste.md)
+- [Dilettante](Livrets/Dilettante.md)
+- [Soldat](Livrets/Soldat.md)
 
 ***
 
 # WiP
 
-Ajouter états émotionnels a la Mask ou horrifique a la place de l'échelle de blessure
-Situation : reprendre le que crains tu ? Et c'est encore pire que ça !
+## Etats
 
-### Exemples de Folies (Générique)
+- [x] Ajouter états émotionnels a la Mask ou horrifique a la place de l'échelle de blessure
+
+## Danger
+
+- [ ] Situation : reprendre le que crains tu ? Et c'est encore pire que ça !
+
+## Inspiration livret
+
+- Scientifique : Charles Dexter ward ou Herbert west
+- Soldat ?
+- Journaliste :
+- Universitaire : l'abîme du temps où ceuou ceux qui murmuraient dans les ténèbres, les montagnes hallucinées
+- Dilettante : Randolph Carter , Charles Dexter ward
+- Artiste : Pickman, appel de Cthulhu,
+- Détective : appel de Cthulhu
+
+## Exemples de Folies (Générique)
 
 - [ ] **Peur Panique** Réaction Immédiate : Vous partez le plus loin et le plus vite possible de ce qui a provoqué le choc. Séquelle : Vous développez une phobie pour une chose en rapport avec la scène que vous venez de vivre.
 - [ ] **Explosion de violence** Réaction Immédiate : Vous agressez la source du choc dans le but la détruire sans vous soucier de votre propre santé. Séquelle : Vous êtes plus agressif et plus hargneux avec les gens que vous ne l'étiez avant.
@@ -307,6 +323,10 @@ Situation : reprendre le que crains tu ? Et c'est encore pire que ça !
 - [ ] **Phobie** : Vous gagnez une phobie en rapport avec la cause de votre choc. Cette phobie reste même si la case est décochée. Vous pouvez accumuler plusieurs phobies. Séquelle :
 - [ ] **Trouble dissociatif de l’identité** Pour la scène en cours, vous changez de livret de personnage et de caractère. Séquelle :
 
+## Indices
+
+- [ ] Remplacer les indices des tréfonds par des indices de l'horreur dans le scénario
+
 ***
 Voir les jeux suivants :
 
@@ -315,25 +335,10 @@ Voir les jeux suivants :
 - Mythos World
 
 ***
-Les deux actions
 
-- agir calmement
-- agir sous la pression
+# Archives
 
-- action contrôlée
-- action risquée
-
-Les deux actions permettent d'agir avant la découverte de l'horreur puis après la prise de conscience de l'horreur.
-
-Remplacer les indices des tréfonds par des indices de l'horreur dans le scénario
-Remplacer ou ajouter un nouveau type de possibilités de cocher pour les joueurs qui va déclencher du hors champs et préparer l'arrivée de l'horreur.
-
-Mettre une jauge qui passe par différents états et change les conséquences des moves:
-Contrôllée / risquée / désepérée
-
-## Archives
-
-#### **Manœuvre nocturne**
+## **Manœuvre nocturne**
 
  Lorsque tu fais quelque chose de risqué, que tu rencontres l'innommable ou que tu fais face à quelque chose que tu crains, nomme ce dont tu as peur qu'il arrive si tu échoues ou si tu perds votre sang-froid.
 
@@ -344,3 +349,17 @@ Contrôllée / risquée / désepérée
 - Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits, et le Gardien te dira quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble.
 
  La Manœuvre de nuit est la Manœuvre fourre-tout pour les actions qui ont lieu la nuit. Puisqu'il est plus dangereux d'agir la nuit que le jour, la Manœuvre de Nuit est écrite pour avoir des résultats plus périlleux pour les personnages que la Manœuvre de Jour. Le Gardien a le dernier mot sur le choix de la capacité utilisée pour le jet.
+
+***
+Les deux actions
+
+- agir calmement
+- agir sous la pression
+
+- action contrôlée
+- action risquée
+
+- [x] Les deux actions permettent d'agir avant la découverte de l'horreur puis après la prise de conscience de l'horreur.
+- [x] Remplacer ou ajouter un nouveau type de possibilités de cocher pour les joueurs qui va déclencher du hors champs et préparer l'arrivée de l'horreur.
+- [x] Mettre une jauge qui passe par différents états et change les conséquences des moves:
+Contrôllée / risquée / désepérée
