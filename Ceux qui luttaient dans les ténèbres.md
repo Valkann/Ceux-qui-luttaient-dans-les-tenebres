@@ -280,11 +280,19 @@ Vous vivez dans la rue, vous cherchez des petits boulots à gauche à droite pou
 
 #### Pauvre
 
+La vie n'est pas simple pour vous. Vous avez un petit boulot qui vous permet de louer une chambre et de ne pas mourir de faim, ou alors vous louez vos services aux plus offrants espérant un jour faire votre trou.
+
 #### Classe Moyenne
+
+Vous vous débrouillez plutôt bien, avez votre appartement, un travail honnête et même sans doute une voiture. Vous ne roulez pas sur l'or, mais avez l'occasion de partir en vacances une semaine dans l'année.
 
 #### Classe aisée
 
+Vous êtes à l'abri du besoin, vous possédez plusieurs propriétés et fréquentez le gotha. Vous êtes sûrement un investisseur, l'héritier d'une vieille famille, voir un notable de votre coin.
+
 #### Classe supérieure
+
+Vous êtes l'incarnation du rêve américain ou l'héritier d'une grosse fortune. L'argent est la dernière de vos préoccupations. Les scandales et les ragots par contre…
 
 ### Combat contre les entités
 
@@ -293,7 +301,7 @@ Il existe deux cas pour affronter les entités du Mythe.
 Si tu tentes d'attaquer une entité surnaturelle de front, tu meurs. Les créatures d'outre espaces surpassent les êtres humains. Que ce soit au point de vue physique, technologique ou magique, tes chances sont nulles. Seuls certains rituels permettent de repousser les abominations que tu as juré de détruire et encore seulement pour un temps.
 
 Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose, alors tu peux lancer les dés voir tu arrives à ton objectif.
-Cela sera toujours considéré comme une situation **Désepéré**
+Cela sera toujours considéré comme une situation **Désespérée**
 
 ***
 
