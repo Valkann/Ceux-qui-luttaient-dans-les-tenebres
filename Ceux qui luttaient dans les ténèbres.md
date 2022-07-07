@@ -305,7 +305,7 @@ Cela sera toujours considéré comme une situation **Désespérée**
 
 ***
 
-# Livrets
+## Livrets
 
 - [Artiste](Livrets/Artiste.md)
 - [Dilettante](Livrets/Dilettante.md)
@@ -313,17 +313,17 @@ Cela sera toujours considéré comme une situation **Désespérée**
 
 ***
 
-# WiP
+## WiP
 
-## Etats
+### Etats
 
 - [x] Ajouter états émotionnels a la Mask ou horrifique a la place de l'échelle de blessure
 
-## Danger
+### Danger
 
 - [ ] Situation : reprendre le que crains tu ? Et c'est encore pire que ça !
 
-## Inspiration livret
+### Inspiration livret
 
 - Scientifique : Charles Dexter ward ou Herbert west
 - Soldat ?
@@ -333,7 +333,7 @@ Cela sera toujours considéré comme une situation **Désespérée**
 - Artiste : Pickman, appel de Cthulhu,
 - Détective : appel de Cthulhu
 
-## Exemples de Folies (Générique)
+### Exemples de Folies (Générique)
 
 - [ ] **Peur Panique** Réaction Immédiate : Vous partez le plus loin et le plus vite possible de ce qui a provoqué le choc. Séquelle : Vous développez une phobie pour une chose en rapport avec la scène que vous venez de vivre.
 - [ ] **Explosion de violence** Réaction Immédiate : Vous agressez la source du choc dans le but la détruire sans vous soucier de votre propre santé. Séquelle : Vous êtes plus agressif et plus hargneux avec les gens que vous ne l'étiez avant.
@@ -343,7 +343,7 @@ Cela sera toujours considéré comme une situation **Désespérée**
 - [ ] **Phobie** : Vous gagnez une phobie en rapport avec la cause de votre choc. Cette phobie reste même si la case est décochée. Vous pouvez accumuler plusieurs phobies. Séquelle :
 - [ ] **Trouble dissociatif de l’identité** Pour la scène en cours, vous changez de livret de personnage et de caractère. Séquelle :
 
-## Indices
+### Indices
 
 - [ ] Remplacer les indices des tréfonds par des indices de l'horreur dans le scénario
 
@@ -356,9 +356,9 @@ Voir les jeux suivants :
 
 ***
 
-# Archives
+## Archives
 
-## **Manœuvre nocturne**
+### **Manœuvre nocturne**
 
  Lorsque tu fais quelque chose de risqué, que tu rencontres l'innommable ou que tu fais face à quelque chose que tu crains, nomme ce dont tu as peur qu'il arrive si tu échoues ou si tu perds votre sang-froid.
 
