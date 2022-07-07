@@ -78,15 +78,27 @@ Voici les différentes conditions qui peuvent être cochée par le joueur ou le 
 
 #### Blessé
 
+Ton personnage a subi une blessure, qu'il se soit cassé la jambe, foulé la cheville, tordue le poignet ou qu'il soit nauséeux, cette condition ne disparaitra pas sans un minimum de traitement médical.
+
 #### Désespéré
+
+Ton personnage ne voit pas comment il est possible de réussir, il est sûr que vous allez à votre perte et que vous ne pouvez qu'échouer, il n'a même plus la force d'essayer.
 
 #### Épuisé
 
+Ton personnage est au bout du rouleau, il a épuisé ses réserves physiques ou psychique. Il ne peut plus continuer à maintenir ses efforts et est prêt à craquer ou à s'effondrer.
+
 #### Paniqué
+
+Ton personnage n'est plus cohérent, la peur et la frayeur guide ses réactions, les autres ne comptent plus seul lui importe sa survie.
 
 #### Enragé
 
+Ton personnage est dans une colère noire, et ne se calme que lorsqu'il est certain d'avoir écrasé son adversaire ou de s'être vengé. Il est obnubilé par ceci.
+
 #### Démoralisé
+
+Ton personnage a perdu espoir dans sa mission, pour lui tout devient vain, il essaye encore, mais sans y croire. Découragé, plus rien ne semble le retenir dans ce monde.
 
 ## Lancer les dés
 
