@@ -90,7 +90,7 @@ Ton personnage est au bout du rouleau, il a épuisé ses réserves physiques ou 
 
 #### Paniqué
 
-Ton personnage n'est plus cohérent, la peur et la frayeur guide ses réactions, les autres ne comptent plus seul lui importe sa survie.
+Ton personnage n'est plus cohérent, la peur et la frayeur guide ses réactions, les autres ne comptent plus, seul lui importe sa survie.
 
 #### Enragé
 
@@ -124,7 +124,7 @@ Pour choisir une position, le MJ examine les définitions ci-dessous et choisit 
 
 Par défaut, un jet d’action est risqué. Vous ne seriez pas en train de lancer les dés s’il n’y avait aucun risque. Si la situation semble très dangereuse, elle est désespérée. Dans le cas où elle paraît modérément dangereuse, elle est contrôlée.  
 
-En règle générale, le gardien vous demandera ce que vous craignez qu'il arrive en cas de 6-. En situation désespéré il vous posera la même question, mais vous expliquera en quoi c'est encore pire.
+En règle générale, le gardien vous demandera ce que vous craignez qu'il arrive en cas de 6-. En situation désespérée il vous posera la même question, mais vous expliquera en quoi c'est encore pire.
 
 ### **2d6 + capacité**
 
@@ -158,7 +158,7 @@ Tu auras le plus souvent un avantage pour les raisons suivantes :
 
 ### **Désavantage**
 
-Lorsque tu es désavantagé, lances trois dés, garde les deux plus faibles, additionne les, puis ajoute le modificateur de la capacité concernée.
+Lorsque tu es désavantagé, lances trois dés, garde les deux plus faibles, additionne-les puis ajoute le modificateur de la capacité concernée.
 
 Tu seras d'ordinaire en désavantage pour les raisons suivantes :
 
@@ -190,7 +190,7 @@ Les **Folies** sont les conséquences de ta lutte contre l'innommable et les tra
 
 ## Souvenirs, Folies et jets de dé
 
-Le Gardien s'acharnera toujours sur toi, car tu disposes d'un outil qui te permet de résister à ses coups : Les **Souvenirs et Folies**
+Le Gardien s'acharnera toujours sur toi, car tu disposes d'un outil qui te permet de résister à ses coups : Les **Souvenirs et Folies.**
 
 Après un jet de dé, et après qu'une conséquence ait été racontée, tu peux choisir de cocher un Souvenir ou une Folie afin d'augmenter le résultat de ton dé d'un niveau.
 
