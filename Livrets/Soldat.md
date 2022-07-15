@@ -1,8 +1,8 @@
 # Soldat
 
-Vétéran de la grande guerre, tu as vu des hirreurs sur le champs de bataille.
+Vétéran de la grande guerre, tu as vu des horreurs sur le champs de bataille.
 
-### Folie
+## Folie
 
 - [ ] **Jamais tu ne pourras m'atteindre**
 - [ ] **Réaction Immédiate** :

@@ -77,8 +77,6 @@ Raconte la découverte du surnaturel et la raison pour laquelle tu mènes cette 
 - **Le Sacrifice**
 Raconte en quoi la lutte contre le surnaturel t'as obligé à faire des sacrifices. Est-ce familiale ? Est-ce d'autres relations ? Est-ce matériel ? Ou bien est-ce sur ta réputation et celle de ta famille ?
 
--
-
 ## Folies
 
 1. **Au-dessus de la plèbe**.
